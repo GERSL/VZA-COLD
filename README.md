@@ -6,7 +6,7 @@ This page has been created for peer review purposes.
 ## Code Explanation
 We provide the code resources (package name associated with the folder provided in the code) for our publication, which are programmed in MATLAB (2022b) and Python (3.10):
 - **VZACOLD**: Nighttime light change detection package (MATLAB)
-- **Analysis**: Code for data analysis and visualization (MATLAB + Python (Jupyter Notebook))
+- **Analysis**: Code for data analysis and visualization (MATLAB + Python)
 
 ## NTL change Product
 This product provides nighttime light change information, including change time (Day-of-year and Year), change type (abrupt or gradual), and change intensity, for each year at the VIIRS 15-arc-second pixel level. You can view the dataset through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
