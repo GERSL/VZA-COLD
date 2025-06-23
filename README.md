@@ -5,8 +5,7 @@ This page has been created for peer review purposes.
 
 ## Code Explanation
 We provide the code resources (package name associated with the folder provided in the code) for our publication, which are programmed in MATLAB (2022b) and Python (3.10):
-- **NTLData**: Data preprocessing (MATLAB)
-- **VZACOLD**: nighttime light change detection package (MATLAB)
+- **VZACOLD**: Nighttime light change detection package (MATLAB)
 - **Analysis**: Code for data analysis and visualization (MATLAB + Python (Jupyter Notebook))
 
 ## NTL change Product
