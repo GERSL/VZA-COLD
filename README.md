@@ -1,6 +1,8 @@
 # VZA-COLD: Viewing Zenith Angle (VZA) stratified COntinuous monitoring of Land Disturbance (COLD)
 VZA-COLD detects nighttime light (NTL) change at 15 arc-second spatial resolution with daily updating capability based on [NASA's Black Marble products](https://blackmarble.gsfc.nasa.gov/).
 
+This page has been created for peer review purposes.
+
 ## Code Explanation
 We provide the code resources (package name associated with the folder provided in the code) for our publication, which are programmed in MATLAB (2022b) and Python (3.10):
 - **LandsatData**: Data processing and density analysis (Python)
