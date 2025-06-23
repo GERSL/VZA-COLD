@@ -5,14 +5,12 @@ This page has been created for peer review purposes.
 
 ## Code Explanation
 We provide the code resources (package name associated with the folder provided in the code) for our publication, which are programmed in MATLAB (2022b) and Python (3.10):
-- **LandsatData**: Data processing and density analysis (Python)
-- **COLD**: Disturbance detection package (MATLAB)
-- **ODACA**: Disturbance agent classification package (MATLAB + Python)
+- **NTLData**: Data preprocessing (MATLAB)
+- **VZA-COLD**: nighttime light change detection package (MATLAB)
 - **Analysis**: Code for data analysis and visualization (MATLAB + Python (Jupyter Notebook))
-- **Release**: Code for organizing the disturbance dataset  (MATLAB + Python)
 
 ## NTL change Product
-This product provides disturbance time, agent, agent classification confidence, magnitude, and severity for each year at the Landsat 30m pixel level. You can view the dataset through [Google Earth Engine](https://ee-gers.projects.earthengine.app/view/us-disturbance)-based application.
+This product provides nighttime light change information, including change time (Day-of-year and Year), change type (abrupt or gradual), and change intensity, for each year at the VIIRS 15-arc-second pixel level. You can view the dataset through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
 
 ## Contact US
 Tian Li(tianli@uconn.edu) and Zhe Zhu (zhe@uconn.edu) at the Department of Natural Resources and the Environment, University of Connecticut.
