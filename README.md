@@ -17,6 +17,6 @@ Tian Li(tianli@uconn.edu) and Zhe Zhu (zhe@uconn.edu) at the Department of Natur
 
 ## Reference
 
-Li, T., Zhu, Z., Wang, Z., Kyba, C. C. M., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., Fragkias, M., Chen, X., Meyer, T. H., Rittenhouse, C. D., Tai, X., Cullerton, M., Hong, F., Grinstead, A., Song, K., Suh, J. W., Yang, X., Kalb, V. L., Deng, C., & Román, M. O. Increasing volatility in human nighttime activity revealed by daily and high-resolution satellite imagery. Submitted to Nature.
+Li, T., Zhu, Z., Wang, Z., Kyba, C. C. M., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., Fragkias, M., Chen, X., Meyer, T. H., Rittenhouse, C. D., Tai, X., Cullerton, M., Hong, F., Grinstead, A., Song, K., Suh, J. W., Yang, X., Kalb, V. L., Deng, C., & Román, M. O. Increasing volatility in human nighttime activity revealed by daily and high-resolution satellite imagery. 
 
 Li, T., Zhu, Z., Wang, Z., Román, M. O., Kalb, V. L., & Zhao, Y. (2022). Continuous monitoring of nighttime light changes based on daily NASA's Black Marble product suite. Remote Sensing of Environment, 282, 113269.
