@@ -26,7 +26,7 @@ For each grid tile, annual change maps are delivered in GeoTIFF format, includin
     
  3) Change type (abrupt or gradual): Please insert the definition here
     e.g., h08v05_change_type_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.
-    | Pixel Value | Change type        |
+    | Pixel value | Change type        |
     |-------------|----------------|
     | 1           | Abrupt  |
     | 2           | Gradual |
