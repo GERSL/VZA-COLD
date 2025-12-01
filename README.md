@@ -20,19 +20,16 @@ You can download Version 1 of the global NTL product dataset (2014–2022), desc
 ### Product Format
 The products are provided in the Suomi-NPP VIIRS linear latitude/longitude (or geographic) grid with 10°×10° (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
 For each grid tile, annual change maps are delivered in GeoTIFF format, including:
- 1) Change time in Day-of-Year: Please insert the definition here<br>
-    e.g., h08v05_change_time_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
+ 1) Abrupt change time in Day-of-Year: Please insert the definition here<br>
+    e.g., h08v05_abrupt_change_time_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
     Pixel value indicates the Day-of-Year.
-    
- 3) Change type (abrupt or gradual): Please insert the definition here<br>
-    e.g., h08v05_change_type_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
-    | Pixel value | Change type        |
-    |-------------|----------------|
-    | 1           | Abrupt  |
-    | 2           | Gradual |
-    
-3) Change intensity: Please insert the definition here<br>
-   e.g., h08v05_change_intensity_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
+   
+3) Abrupt change intensity: Please insert the definition here<br>
+   e.g., h08v05_abrupt_change_intensity_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
+   Pixel value is the intensity of the change in units: xxxx.
+   
+4) Gradual change intensity: Please insert the definition here<br>
+   e.g., h08v05_gradual_change_intensity_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
    Pixel value is the intensity of the change in units: xxxx.
 
 ## User Discussion and Feedback
