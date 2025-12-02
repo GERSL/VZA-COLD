@@ -36,7 +36,7 @@ Annual change maps are delivered in GeoTIFF format, including:
 For user discussions or comments, please feel free to contact us by email or visit [the project’s issue page] (https://github.com/GERSL/VZA-COLD/issues)
 
 ## Contact US
-Tian Li(tianli@uconn.edu) and Zhe Zhu (zhe@uconn.edu) at the Department of Natural Resources and the Environment, University of Connecticut.
+Tian Li (tianli@uconn.edu) and Zhe Zhu (zhe@uconn.edu) at the Department of Natural Resources and the Environment, University of Connecticut.
 
 ## Reference
 
