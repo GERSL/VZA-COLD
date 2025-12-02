@@ -15,22 +15,22 @@ Our global NTL change product provides nighttime light change information, inclu
 You can view the dataset through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
 
 ### Product Access
-You can download Version 1 of the global NTL product dataset (2014–2022), described in Tian et al. (2026), from [this link] (xx GB compressed; 80 GB uncompressed).
+You can download Collection 1 of the global NTL product dataset (2014–2022), described in Tian et al. (2026), from [TBD].
 
 ### Product Format
-The products are provided in the Suomi-NPP VIIRS linear latitude/longitude (or geographic) grid with 10°×10° (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
-For each grid tile, annual change maps are delivered in GeoTIFF format, including:
- 1) Abrupt change time in Day-of-Year: Please insert the definition here<br>
-    e.g., h08v05_abrupt_change_time_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
-    Pixel value indicates the Day-of-Year.
+The products are provided in the Suomi-NPP VIIRS linear latitude/longitude (or geographic) (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
+Annual change maps are delivered in GeoTIFF format, including:
+ 1) Abrupt change time in Day-of-Year<br>
+    Filename: AbruptChangeTime_YYYY.tif (where YYYY means year)
+    Pixel Value: Day-of-Year<br>
    
-3) Abrupt change intensity: Please insert the definition here<br>
-   e.g., h08v05_abrupt_change_intensity_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
-   Pixel value is the intensity of the change in units: xxxx.
+3) Abrupt change intensity:<br>
+    Filename: AbruptChangeIntensity_YYYY.tif (where YYYY means year)
+    Pixel value: the intensity of the change in units: nW·cm⁻²·sr⁻¹<br>
    
-4) Gradual change intensity: Please insert the definition here<br>
-   e.g., h08v05_gradual_change_intensity_2020.tif, where h08v05 means the grid tile name and 2020 indicates the year.<br>
-   Pixel value is the intensity of the change in units: xxxx.
+4) Gradual change intensity: <br>
+    Filename: GradualChangeIntensity_YYYY.tif (where YYYY means year)
+    Pixel value: the intensity of the change in units: nW·cm⁻²·sr⁻¹<br>
 
 ## User Discussion and Feedback
 For user discussions or comments, please feel free to contact us by email or visit [the project’s issue page] (https://github.com/GERSL/VZA-COLD/issues)
