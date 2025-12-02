@@ -9,7 +9,7 @@ We provide the code resources (package name associated with the folder provided 
 - **Analysis**: Code for data analysis and visualization (MATLAB + Python)
 
 ## NTL Change Product
-Our global NTL change product provides nighttime light change information, including change time (Day-of-year and Year), change type (abrupt or gradual), and change intensity, for each year at the VIIRS 15-arc-second pixel level. 
+Our global NTL change product provides nighttime light change information, including change time (Day-of-year and Year) and change intensity for abrupt change and gradual change, for each year at the VIIRS 15-arc-second pixel level. 
 
 ### Product Preview
 You can view the dataset through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
