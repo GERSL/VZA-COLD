@@ -21,16 +21,16 @@ You can download Collection 1 of the global NTL product dataset (2014–2022), d
 The products are provided in the Suomi-NPP VIIRS linear latitude/longitude (or geographic) (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
 Annual change maps are delivered in GeoTIFF format, including:
  1) Abrupt change time in Day-of-Year<br>
-    Filename: AbruptChangeTime_YYYY.tif (where YYYY means year)
+    Filename: AbruptChangeTime_YYYY.tif (where YYYY means year)<br>
     Pixel Value: Day-of-Year<br>
    
 3) Abrupt change intensity:<br>
-    Filename: AbruptChangeIntensity_YYYY.tif (where YYYY means year)
-    Pixel value: the intensity of the change in units: nW·cm⁻²·sr⁻¹<br>
+    Filename: AbruptChangeIntensity_YYYY.tif (where YYYY means year)<br>
+    Pixel value: Intensity of the change in units nW·cm⁻²·sr⁻¹<br>
    
 4) Gradual change intensity: <br>
-    Filename: GradualChangeIntensity_YYYY.tif (where YYYY means year)
-    Pixel value: the intensity of the change in units: nW·cm⁻²·sr⁻¹<br>
+    Filename: GradualChangeIntensity_YYYY.tif (where YYYY means year)<br>
+    Pixel value: Intensity of the change in units nW·cm⁻²·sr⁻¹<br>
 
 ## User Discussion and Feedback
 For user discussions or comments, please feel free to contact us by email or visit [the project’s issue page] (https://github.com/GERSL/VZA-COLD/issues)
