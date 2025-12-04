@@ -15,7 +15,7 @@ Our global NTL change product provides nighttime light change information, inclu
 You can view the dataset through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
 
 ### Product Access
-You can download Collection 1 of the global NTL product dataset (2014–2022), described in Tian et al. (2026), from [TBD].
+You can download Collection 1 of the global NTL product dataset (2014–2022), described in Li et al. (2026), from [TBD].
 
 ### Product Format
 The products are provided in the Suomi-NPP VIIRS linear latitude/longitude (or geographic) (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
