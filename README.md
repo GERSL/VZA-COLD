@@ -1,5 +1,5 @@
 # VZA-COLD: Viewing Zenith Angle (VZA) stratified COntinuous monitoring of Land Disturbance (COLD)
-VZA-COLD detects nighttime light (NTL) change at 15 arc-second spatial resolution with daily updating capability based on [NASA's Black Marble products](https://blackmarble.gsfc.nasa.gov/).
+VZA-COLD detects artificial light at night (ALAN) change at 15 arc-second spatial resolution with daily updating capability based on [NASA's Black Marble products](https://blackmarble.gsfc.nasa.gov/).
 
 This page has been created for peer review purposes.
 
