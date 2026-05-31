@@ -15,7 +15,7 @@ Our global NTL change product provides artificial light at night change informat
 Visualization of the dataset can be found through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
 
 ### Product Access
-Collection 1 (beta version) of the global ALAN change product dataset (2014–2022), described in Li et al. (2026), can be downloaded from [TBD].
+Collection 1 (beta version) of the global ALAN change product dataset (2014–2022) and the related codes, described in Li et al. (2026), can be downloaded from [Zenodo repository] (https://doi.org/10.5281/zenodo.18264642).
 
 ### Product Format
 The products are provided in the Suomi-NPP VIIRS 15-arc-second linear latitude/longitude grids (or geographic) (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
@@ -40,6 +40,6 @@ Tian Li (tianli@uconn.edu) and Zhe Zhu (zhe@uconn.edu) at the Department of Natu
 
 ## Reference
 
-Li, T., Zhu, Z., Wang, Z., Kyba, C. C. M., Seto, K. C., Yang, Y., Qiu, S., Kuester, T., Fragkias, M., Chen, X., Meyer, T. H., Rittenhouse, C. D., Tai, X., Cullerton, M., Hong, F., Grinstead, A., Song, K., Suh, J. W., Yang, X., Kalb, V. L., Deng, C., & Román, M. O. Increasing volatility in human nighttime activity revealed by daily and high-resolution satellite imagery. 
+Li, T., Wang, Z., Kyba, C., Román, M. O., Seto, K. C., Yang, Y., ... & Zhu, Z. (2026). Satellite imagery reveals increasing volatility in human night-time activity. Nature, 652(8109), 379-386.
 
 Li, T., Zhu, Z., Wang, Z., Román, M. O., Kalb, V. L., & Zhao, Y. (2022). Continuous monitoring of nighttime light changes based on daily NASA's Black Marble product suite. Remote Sensing of Environment, 282, 113269.
