@@ -15,7 +15,7 @@ Our global NTL change product provides artificial light at night change informat
 Visualization of the dataset can be found through [Google Earth Engine](https://ee-downloading.projects.earthengine.app/view/alan-change)-based application.
 
 ### Product Access
-Collection 1 (beta version) of the global ALAN change product dataset (2014–2022) and the related codes, described in Li et al. (2026), can be downloaded from [Zenodo repository] (https://doi.org/10.5281/zenodo.18264642).
+Collection 1 (beta version) of the global ALAN change product dataset (2014–2022) and the related codes, described in Li et al. (2026), can be downloaded from [Zenodo repository](https://doi.org/10.5281/zenodo.18264642).
 
 ### Product Format
 The products are provided in the Suomi-NPP VIIRS 15-arc-second linear latitude/longitude grids (or geographic) (see Figure 2 in [this document](https://viirsland.gsfc.nasa.gov/PDF/BlackMarbleUserGuide_Collection2.0.pdf)).
